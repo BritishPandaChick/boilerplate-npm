@@ -1,4 +1,8 @@
 {
+	"author": "Sarah Bartley",
+	"description": "Tutorial project for Free Code Camp Managing Projects with NPM",
+	"keywords": ["freecodecamp", "npm", "tutorial"],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -7,7 +11,6 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Sarah Bartley",
 	"engines": {
 		"node": "8.11.2"
 	},
